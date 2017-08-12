@@ -5,7 +5,7 @@
 1. Download .safariextension
 1. Open Safari
 2. Open Preferences
-3. Advanced -> check Develop Menue
+3. Advanced -> check Develop Menu
 4. Open Develop -> Extension Builder
 5. Add .safariextension
 6. Reload Trello page
